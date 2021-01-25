@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I´m Fede, a Systems Engineer and I´m currently working as an iOS Developer based in Mar del Plata, Argentina :argentina:.
+
+[![Fede's github stats](https://github-readme-stats.vercel.app/api?username=Fedenieto90&count_private=true&show_icons=true&theme=dark)](https://github.com/Fedenieto90/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedenieto90&theme=dark&langs_count=2)](https://github.com/Fedenieto90/github-readme-stats)
+
 <!--
 **Fedenieto90/Fedenieto90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
