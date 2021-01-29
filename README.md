@@ -7,7 +7,7 @@ I´m Fede, a Systems Engineer and I´m currently working as an iOS Developer bas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedenieto90&theme=dark&langs_count=2&layout=compact)](https://github.com/Fedenieto90/github-readme-stats)
 
 ## Present
-- 📱 I’m currently working as Sr iOS Engineer [@RocketInsights](https://www.rocketinsights.com) part of [@Dept](https://www.deptagency.com/)
+- 📱 I’m currently working as an iOS Engineer [@RocketInsights](https://www.rocketinsights.com) part of [@Dept](https://www.deptagency.com/)
 
 
 ## Skills:
