@@ -17,6 +17,10 @@ I´m Fede, a Systems Engineer and I´m currently working as an iOS Developer bas
 [![Objective-C](https://img.shields.io/badge/Objective_C-0095D5?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![XCode](https://img.shields.io/badge/XCode-3DDC84?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 
+## Learning:
+
+[![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
 ## Find me at:
 [![Medium](https://img.shields.io/badge/Medium-@Fede_Nieto-9146FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://medium.com/@fede_nieto)
 [![Twitter](https://img.shields.io/badge/Twitter-@Fede_Nieto-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fede_nieto)
