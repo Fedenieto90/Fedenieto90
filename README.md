@@ -20,6 +20,7 @@ I´m Fede, a Systems Engineer and I´m currently working as an iOS Developer bas
 ## Learning:
 
 [![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
 [![Medium](https://img.shields.io/badge/Medium-@Fede_Nieto-9146FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://medium.com/@fede_nieto)
