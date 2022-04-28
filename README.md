@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I´m Fede, a Systems Engineer and I´m currently working as an iOS Developer based in Mar del Plata, Argentina :argentina:.
+I´m Fede, a Systems Engineer and I´m currently working as an iOS Engineer based in Mar del Plata, Argentina :argentina:.
 
 [![Fede's github stats](https://github-readme-stats.vercel.app/api?username=Fedenieto90&count_private=true&show_icons=true&theme=dark)](https://github.com/Fedenieto90/github-readme-stats)
 
