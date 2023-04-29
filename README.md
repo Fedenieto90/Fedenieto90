@@ -16,9 +16,6 @@ I´m Fede, a Systems Engineer and I´m currently working as an iOS Engineer base
 [![Swift](https://img.shields.io/badge/Swift-0095D5?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Objective-C](https://img.shields.io/badge/Objective_C-0095D5?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![XCode](https://img.shields.io/badge/XCode-3DDC84?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-
-## Learning:
-
 [![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 
